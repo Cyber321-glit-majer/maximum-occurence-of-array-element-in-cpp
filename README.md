@@ -17,7 +17,7 @@ Output : 20
 
 **CODE**
 **APPROACH 1**
-Brute Force approch
+Brute Force approch  || Time complexity : O(N^2)
 ```
 
 #include <bits/stdc++.h>
@@ -53,6 +53,7 @@ int main()
 
 ```
 **USING HASHING**
+Time coplexity: O(N)
 ```
 #include<bits/stdc++.h>
 using namespace std;
@@ -117,6 +118,7 @@ using namespace std;
 ```
 
 **MOORE'S VOTING METHOD**
+Time complexity: O(N)
 ```
 #include <iostream>
 using namespace std;
